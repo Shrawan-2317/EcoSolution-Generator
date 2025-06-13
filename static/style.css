@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.title-section {
+    background-color: navy;
+    color: white;
+    padding: 20px;
+    border-radius: 15px;
+    margin: 20px;
+}
+
+.input-section {
+    margin: 20px;
+}
+
+input {
+    padding: 10px;
+    width: 300px;
+    margin-right: 10px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: navy;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#output-section {
+    margin: 20px;
+}
+
+.solution-name {
+    background-color: orange;
+    color: white;
+    padding: 10px;
+    margin: 10px auto;
+    border-radius: 5px;
+    width: fit-content;
+}
+
+.step {
+    background-color: gray;
+    color: white;
+    padding: 5px;
+    margin: 5px auto;
+    border-radius: 5px;
+    width: fit-content;
+}
+
+.video-link {
+    background-color: red;
+    color: white;
+    padding: 5px 10px;
+    margin: 5px auto;
+    border-radius: 5px;
+    cursor: pointer;
+    display: inline-block;
+    text-decoration: none;
+}

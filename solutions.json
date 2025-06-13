@@ -1,0 +1,473 @@
+{
+    "plastic bottle": {
+        "solutionName1": {
+            "solutionName": "Plastic Bottle Recycling",
+            "steps": [
+                "STEP 1: Collect empty plastic bottles.",
+                "STEP 2: Clean and remove labels.",
+                "STEP 3: Shred the bottles into small pieces.",
+                "STEP 4: Melt the plastic pieces and mold them into new products."
+            ],
+            "videoLink": "https://www.youtube.com/results?search_query=Plastic+Bottle+Recycling"
+        },
+        "solutionName2": {
+            "solutionName": "Plastic Bottle Upcycling",
+            "steps": [
+                "STEP 1: Collect plastic bottles from waste.",
+                "STEP 2: Clean and sterilize the bottles.",
+                "STEP 3: Cut and reshape the bottles into new functional products.",
+                "STEP 4: Decorate or paint the products to give them a new look."
+            ],
+            "videoLink": "https://www.youtube.com/results?search_query=Plastic+Bottle+Upcycling"
+        },
+        "solutionName3": {
+            "solutionName": "Plastic Bottle Art Projects",
+            "steps": [
+                "STEP 1: Gather a variety of plastic bottles.",
+                "STEP 2: Cut and shape the bottles into artistic forms.",
+                "STEP 3: Paint or decorate the bottles.",
+                "STEP 4: Use the bottles to create sculptures, flower pots, or decorative items."
+            ],
+            "videoLink": "https://www.youtube.com/results?search_query=Plastic+Bottle+Art+Projects"
+        }
+    },
+    "cardboard": {
+        "solutionName1": {
+            "solutionName": "Cardboard Composting",
+            "steps": [
+                "STEP 1: Shred cardboard into small pieces.",
+                "STEP 2: Add the pieces to a compost bin with organic waste.",
+                "STEP 3: Mix the cardboard with compost materials.",
+                "STEP 4: Let it decompose and use as fertilizer."
+            ],
+            "videoLink": "https://www.youtube.com/results?search_query=Cardboard+Composting"
+        },
+        "solutionName2": {
+            "solutionName": "Cardboard Furniture",
+            "steps": [
+                "STEP 1: Gather strong cardboard pieces.",
+                "STEP 2: Cut and assemble them into desired furniture shapes.",
+                "STEP 3: Glue and reinforce with layers for strength.",
+                "STEP 4: Paint or decorate for a finished look."
+            ],
+            "videoLink": "https://www.youtube.com/results?search_query=Cardboard+Furniture"
+        },
+        "solutionName3": {
+            "solutionName": "Cardboard Toys",
+            "steps": [
+                "STEP 1: Use cardboard sheets to cut toy shapes.",
+                "STEP 2: Assemble the pieces into toy models.",
+                "STEP 3: Paint and decorate the toys.",
+                "STEP 4: Use them for children's creative play."
+            ],
+            "videoLink": "https://www.youtube.com/results?search_query=Cardboard+Toys"
+        }
+    },
+    "glass bottles": {
+        "solutionName1": {
+            "solutionName": "Glass Bottle Garden Edging",
+            "steps": [
+                "STEP 1: Collect empty glass bottles.",
+                "STEP 2: Clean and remove labels.",
+                "STEP 3: Place bottles upside down in the soil along garden edges.",
+                "STEP 4: Ensure stability by packing soil around the bottles."
+            ],
+            "videoLink": "https://www.youtube.com/results?search_query=Glass+Bottle+Garden+Edging"
+        },
+        "solutionName2": {
+            "solutionName": "Glass Bottle Lamp",
+            "steps": [
+                "STEP 1: Clean and remove labels from glass bottles.",
+                "STEP 2: Insert a string of fairy lights into the bottle.",
+                "STEP 3: Plug in the lights to create a decorative lamp.",
+                "STEP 4: Add paint or decals for customization."
+            ],
+            "videoLink": "https://www.youtube.com/results?search_query=Glass+Bottle+Lamp"
+        },
+        "solutionName3": {
+            "solutionName": "Glass Bottle Planters",
+            "steps": [
+                "STEP 1: Cut bottles in half using a glass cutter.",
+                "STEP 2: Smooth the edges to avoid cuts.",
+                "STEP 3: Add soil and plants to the bottom half.",
+                "STEP 4: Use them as decorative planters."
+            ],
+            "videoLink": "https://www.youtube.com/results?search_query=Glass+Bottle+Planters"
+        }
+    },
+    "aluminum cans": {
+        "solutionName1": {
+            "solutionName": "Aluminum Can Craft Projects",
+            "steps": [
+                "STEP 1: Wash and clean aluminum cans.",
+                "STEP 2: Cut and shape the cans into decorative pieces.",
+                "STEP 3: Paint or polish for finishing.",
+                "STEP 4: Use them as home decorations."
+            ],
+            "videoLink": "https://www.youtube.com/results?search_query=Aluminum+Can+Craft"
+        },
+        "solutionName2": {
+            "solutionName": "Aluminum Can Solar Cooker",
+            "steps": [
+                "STEP 1: Flatten aluminum cans to create reflective panels.",
+                "STEP 2: Assemble panels into a parabola shape.",
+                "STEP 3: Focus sunlight onto a cooking pot.",
+                "STEP 4: Cook food using solar energy."
+            ],
+            "videoLink": "https://www.youtube.com/results?search_query=Aluminum+Can+Solar+Cooker"
+        },
+        "solutionName3": {
+            "solutionName": "Aluminum Can Herb Planters",
+            "steps": [
+                "STEP 1: Remove the top of the can.",
+                "STEP 2: Paint or decorate the can exterior.",
+                "STEP 3: Fill with soil and plant herbs.",
+                "STEP 4: Place in a sunny spot and water regularly."
+            ],
+            "videoLink": "https://www.youtube.com/results?search_query=Aluminum+Can+Planters"
+        }
+    },
+    "old tires": {
+        "solutionName1": {
+            "solutionName": "Tire Swing",
+            "steps": [
+                "STEP 1: Clean an old tire.",
+                "STEP 2: Drill holes for rope attachment.",
+                "STEP 3: Tie a sturdy rope through the holes.",
+                "STEP 4: Hang from a tree branch or a metal frame."
+            ],
+            "videoLink": "https://www.youtube.com/results?search_query=Tire+Swing"
+        },
+        "solutionName2": {
+            "solutionName": "Tire Garden Planters",
+            "steps": [
+                "STEP 1: Wash and paint old tires.",
+                "STEP 2: Fill with soil and plants.",
+                "STEP 3: Arrange the tires decoratively in your garden.",
+                "STEP 4: Maintain plants regularly."
+            ],
+            "videoLink": "https://www.youtube.com/results?search_query=Tire+Garden+Planters"
+        },
+        "solutionName3": {
+            "solutionName": "Tire Sand Pit",
+            "steps": [
+                "STEP 1: Clean and place a large tire in a play area.",
+                "STEP 2: Fill the tire with clean sand.",
+                "STEP 3: Add toys for children to play.",
+                "STEP 4: Cover the pit when not in use."
+            ],
+            "videoLink": "https://www.youtube.com/results?search_query=Tire+Sand+Pit"
+        }
+    },
+
+    "paper": {
+        "solutionName1": {
+            "solutionName": "Paper Recycling",
+            "steps": [
+                "STEP 1: Collect and sort paper waste.",
+                "STEP 2: Shred the paper into small pieces.",
+                "STEP 3: Add water to create a pulp.",
+                "STEP 4: Press and dry the pulp into new sheets."
+            ],
+            "videoLink": "https://www.youtube.com/results?search_query=Paper+Recycling"
+        },
+        "solutionName2": {
+            "solutionName": "Paper Composting",
+            "steps": [
+                "STEP 1: Tear paper into small pieces.",
+                "STEP 2: Mix with other organic waste.",
+                "STEP 3: Add to a compost bin.",
+                "STEP 4: Let it decompose naturally."
+            ],
+            "videoLink": "https://www.youtube.com/results?search_query=Paper+Composting"
+        },
+        "solutionName3": {
+            "solutionName": "Paper Mache Crafts",
+            "steps": [
+                "STEP 1: Mix shredded paper with glue or paste.",
+                "STEP 2: Shape the mixture into desired forms.",
+                "STEP 3: Let it dry and harden.",
+                "STEP 4: Paint or decorate as needed."
+            ],
+            "videoLink": "https://www.youtube.com/results?search_query=Paper+Mache"
+        }
+    },
+    "wood scraps": {
+        "solutionName1": {
+            "solutionName": "Wooden Coasters",
+            "steps": [
+                "STEP 1: Cut wood scraps into circular or square pieces.",
+                "STEP 2: Sand the edges for smoothness.",
+                "STEP 3: Polish or paint for a finished look.",
+                "STEP 4: Use them as coasters for hot or cold drinks."
+            ],
+            "videoLink": "https://www.youtube.com/results?search_query=Wooden+Coasters"
+        },
+        "solutionName2": {
+            "solutionName": "Wooden Shelves",
+            "steps": [
+                "STEP 1: Cut wood scraps to uniform lengths.",
+                "STEP 2: Assemble into shelf units using nails or glue.",
+                "STEP 3: Paint or stain for aesthetics.",
+                "STEP 4: Mount the shelves on walls."
+            ],
+            "videoLink": "https://www.youtube.com/results?search_query=Wooden+Shelves"
+        },
+        "solutionName3": {
+            "solutionName": "Wooden Toys",
+            "steps": [
+                "STEP 1: Design simple toy shapes on wood.",
+                "STEP 2: Cut and sand the wood.",
+                "STEP 3: Paint or decorate the toys.",
+                "STEP 4: Assemble if necessary and test for safety."
+            ],
+            "videoLink": "https://www.youtube.com/results?search_query=Wooden+Toys"
+        }
+    },
+    "old clothes": {
+        "solutionName1": {
+            "solutionName": "Cloth Tote Bags",
+            "steps": [
+                "STEP 1: Cut old clothes into rectangular pieces.",
+                "STEP 2: Stitch the edges to form a bag.",
+                "STEP 3: Add handles using leftover cloth.",
+                "STEP 4: Decorate as desired."
+            ],
+            "videoLink": "https://www.youtube.com/results?search_query=Cloth+Tote+Bags"
+        },
+        "solutionName2": {
+            "solutionName": "Rag Rugs",
+            "steps": [
+                "STEP 1: Cut old clothes into strips.",
+                "STEP 2: Weave the strips together into a rug.",
+                "STEP 3: Secure the edges with stitching.",
+                "STEP 4: Use as a decorative or functional rug."
+            ],
+            "videoLink": "https://www.youtube.com/results?search_query=Rag+Rugs"
+        },
+        "solutionName3": {
+            "solutionName": "Stuffed Toys",
+            "steps": [
+                "STEP 1: Use fabric from old clothes to create shapes.",
+                "STEP 2: Stuff with cotton or fabric scraps.",
+                "STEP 3: Sew edges to seal.",
+                "STEP 4: Add decorations for a finished look."
+            ],
+            "videoLink": "https://www.youtube.com/results?search_query=Stuffed+Toys"
+        }
+    },
+    "used tires": {
+        "solutionName1": {
+            "solutionName": "Tire Garden Benches",
+            "steps": [
+                "STEP 1: Clean the tires thoroughly.",
+                "STEP 2: Stack tires and secure them together.",
+                "STEP 3: Add a wooden or cushioned top.",
+                "STEP 4: Paint for aesthetics."
+            ],
+            "videoLink": "https://www.youtube.com/results?search_query=Tire+Garden+Benches"
+        },
+        "solutionName2": {
+            "solutionName": "Tire Sculptures",
+            "steps": [
+                "STEP 1: Cut and shape tires into artistic designs.",
+                "STEP 2: Paint the pieces in vibrant colors.",
+                "STEP 3: Assemble to create sculptures.",
+                "STEP 4: Display in parks or gardens."
+            ],
+            "videoLink": "https://www.youtube.com/results?search_query=Tire+Sculptures"
+        },
+        "solutionName3": {
+            "solutionName": "Tire Sandbox",
+            "steps": [
+                "STEP 1: Place a large tire in a safe location.",
+                "STEP 2: Fill it with clean sand.",
+                "STEP 3: Cover when not in use.",
+                "STEP 4: Let kids play safely."
+            ],
+            "videoLink": "https://www.youtube.com/results?search_query=Tire+Sandbox"
+        }
+    },
+    "coconut shells": {
+        "solutionName1": {
+            "solutionName": "Coconut Shell Planters",
+            "steps": [
+                "STEP 1: Clean the coconut shells.",
+                "STEP 2: Drill a small hole for drainage.",
+                "STEP 3: Fill with soil and plants.",
+                "STEP 4: Use as natural planters."
+            ],
+            "videoLink": "https://www.youtube.com/results?search_query=Coconut+Shell+Planters"
+        },
+        "solutionName2": {
+            "solutionName": "Coconut Shell Bowls",
+            "steps": [
+                "STEP 1: Polish and smooth the coconut shell.",
+                "STEP 2: Coat with food-safe varnish.",
+                "STEP 3: Use as eco-friendly bowls.",
+                "STEP 4: Wash gently after use."
+            ],
+            "videoLink": "https://www.youtube.com/results?search_query=Coconut+Shell+Bowls"
+        },
+        "solutionName3": {
+            "solutionName": "Coconut Shell Crafts",
+            "steps": [
+                "STEP 1: Design artistic shapes on coconut shells.",
+                "STEP 2: Cut and carve the shells accordingly.",
+                "STEP 3: Paint or decorate as needed.",
+                "STEP 4: Use as decorative items."
+            ],
+            "videoLink": "https://www.youtube.com/results?search_query=Coconut+Shell+Crafts"
+        }
+    },
+    "wrappers": {
+        "solutionName1": {
+            "solutionName": "Wrapper Collages",
+            "steps": [
+                "STEP 1: Collect clean wrappers of various colors.",
+                "STEP 2: Cut them into shapes or strips.",
+                "STEP 3: Arrange and glue them on a canvas to form patterns or pictures.",
+                "STEP 4: Frame or display the collage as art."
+            ],
+            "videoLink": "https://www.youtube.com/results?search_query=Wrapper+Collage"
+        }
+    },
+        "old shoes": {
+            "solutionName1": {
+                "solutionName": "Planter Pots",
+                "steps": [
+                    "STEP 1: Clean and remove the insoles.",
+                    "STEP 2: Punch small drainage holes at the bottom.",
+                    "STEP 3: Fill with soil and plant flowers or succulents.",
+                    "STEP 4: Place in a sunny location."
+                ],
+                "videoLink": "https://www.youtube.com/results?search_query=Old+Shoe+Planter"
+            }
+        },
+        "toys": {
+            "solutionName1": {
+                "solutionName": "Toy Planters",
+                "steps": [
+                    "STEP 1: Clean and empty out the toys.",
+                    "STEP 2: Drill drainage holes in the bottom.",
+                    "STEP 3: Fill with soil and plant flowers.",
+                    "STEP 4: Decorate with paint and use as planters."
+                ],
+                "videoLink": "https://www.youtube.com/results?search_query=Toy+Planters"
+            }
+        },
+        "tin cans": {
+            "solutionName1": {
+                "solutionName": "Tin Can Herb Garden",
+                "steps": [
+                    "STEP 1: Clean and remove labels from the cans.",
+                    "STEP 2: Punch small drainage holes in the bottom.",
+                    "STEP 3: Fill with soil and plant herbs.",
+                    "STEP 4: Place on a windowsill or balcony for sunlight."
+                ],
+                "videoLink": "https://www.youtube.com/results?search_query=Tin+Can+Herb+Garden"
+            }
+        },
+        "plastic containers": {
+            "solutionName1": {
+                "solutionName": "Plastic Container Organizer",
+                "steps": [
+                    "STEP 1: Clean the plastic containers thoroughly.",
+                    "STEP 2: Stack or arrange them to form compartments.",
+                    "STEP 3: Label the containers for different items.",
+                    "STEP 4: Use as a drawer organizer."
+                ],
+                "videoLink": "https://www.youtube.com/results?search_query=Plastic+Container+Organizer"
+            }
+        },
+        "old curtains": {
+            "solutionName1": {
+                "solutionName": "Curtain Cushions",
+                "steps": [
+                    "STEP 1: Cut the curtain fabric into cushion-sized pieces.",
+                    "STEP 2: Sew the pieces together to form a cushion.",
+                    "STEP 3: Stuff the cushion with old fabric or padding.",
+                    "STEP 4: Close and decorate with buttons or fabric."
+                ],
+                "videoLink": "https://www.youtube.com/results?search_query=Curtain+Cushions"
+            }
+        },
+        "broken jewelry": {
+            "solutionName1": {
+                "solutionName": "Jewelry Frame Art",
+                "steps": [
+                    "STEP 1: Collect broken or old jewelry pieces.",
+                    "STEP 2: Arrange them in a frame to create a design.",
+                    "STEP 3: Glue the jewelry onto the frame.",
+                    "STEP 4: Display as a decorative art piece."
+                ],
+                "videoLink": "https://www.youtube.com/results?search_query=Jewelry+Frame+Art"
+            }
+        },
+        "old plates": {
+            "solutionName1": {
+                "solutionName": "Plate Wall Decor",
+                "steps": [
+                    "STEP 1: Clean and dry old plates.",
+                    "STEP 2: Paint or decorate the plates with designs.",
+                    "STEP 3: Attach a hook to the back.",
+                    "STEP 4: Hang the plates on a wall for decoration."
+                ],
+                "videoLink": "https://www.youtube.com/results?search_query=Plate+Wall+Decor"
+            }
+        },
+        "newspapers": {
+            "solutionName1": {
+                "solutionName": "Newspaper Baskets",
+                "steps": [
+                    "STEP 1: Roll newspaper sheets into tight tubes.",
+                    "STEP 2: Weave the tubes together to form a basket shape.",
+                    "STEP 3: Secure the ends and reinforce with glue.",
+                    "STEP 4: Use as a storage or decorative item."
+                ],
+                "videoLink": "https://www.youtube.com/results?search_query=Newspaper+Baskets"
+            }
+        },
+        
+            "plastic mug": {
+                "solutionName1": {
+                    "solutionName": "Plastic Mug Garden Watering Can",
+                    "steps": [
+                        "STEP 1: Clean the plastic mug thoroughly.",
+                        "STEP 2: Drill small holes in the bottom or side of the mug.",
+                        "STEP 3: Fill the mug with water and use it for watering plants.",
+                        "STEP 4: Decorate the mug to make it visually appealing."
+                    ],
+                    "videoLink": "https://www.youtube.com/results?search_query=Plastic+Mug+Watering+Can"
+                }
+            },
+        
+            "wet waste": {
+                "solutionName1": {
+                    "solutionName": "Composting Wet Waste",
+                "steps": [
+                    "STEP 1: Collect wet waste like fruit peels and vegetable scraps.",
+                    "STEP 2: Add the wet waste to a compost bin with dry leaves and soil.",
+                    "STEP 3: Mix the contents regularly to aerate the compost.",
+                    "STEP 4: Use the compost as natural fertilizer for plants."
+                ],
+                "videoLink": "https://www.youtube.com/results?search_query=Wet+Waste+Composting"
+            }
+        },
+        "dry waste": {
+            "solutionName1": {
+                "solutionName": "Dry Waste Sorting and Recycling",
+                "steps": [
+                    "STEP 1: Collect dry waste like paper, cardboard, and plastic.",
+                    "STEP 2: Sort the waste into categories for recycling.",
+                    "STEP 3: Deliver sorted waste to a nearby recycling center.",
+                    "STEP 4: Reuse items like paper and cardboard creatively at home."
+                ],
+                "videoLink": "https://www.youtube.com/results?search_query=Dry+Waste+Recycling"
+            }
+        }
+    
+    
+    
+
+}
